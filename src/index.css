@@ -1,0 +1,46 @@
+.primary-color{
+    background-color: #004A87;
+}
+.secundary-color {
+    background-color: #D2DFEA;
+}
+input{
+    background:#f6f6f6
+}
+.text-color{
+    color: #004A87;
+}
+.text-secundary{
+    color:#D2DFEA;
+}
+.centrar{
+    display:flex;
+    justify-content: center;
+   
+}
+
+body{
+    background:#f6f6f6;
+    font-family: 'Fira Sans', sans-serif;
+    padding-top: 10px;
+    background-color: #eee;
+}
+.mr{
+    margin-left: 20px;
+}
+.ml{
+    margin-left: -120px;
+}
+
+.btn-tam{
+    width: 100%;
+}
+
+
+.btn-tam2{
+    width: 80%;
+}
+
+.border_input{
+    border: none;
+}
